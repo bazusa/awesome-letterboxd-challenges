@@ -21,3 +21,20 @@
 .site-footer {
     display: none;
 }
+
+/* Challenge list spacing */
+.page-content li {
+    margin-bottom: 0.6rem;
+}
+
+/* Section heading spacing */
+.page-content h2 {
+    margin-top: 2rem;
+    margin-bottom: 0.8rem;
+}
+
+/* Main page heading */
+.page-content h1 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
