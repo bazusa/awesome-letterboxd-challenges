@@ -3,8 +3,6 @@ layout: default
 title: Awesome Letterboxd Challenges
 ---
 
-# Awesome Letterboxd Challenges
-
 A collection of film-watching challenges from the Letterboxd community.
 
 ## 📅 Annual Challenges
