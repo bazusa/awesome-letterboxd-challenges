@@ -11,3 +11,9 @@
 .site-nav {
     display: none !important;
 }
+
+.site-header {
+    border-top: none;
+    border-bottom: none;
+    min-height: 0;
+}
