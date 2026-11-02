@@ -14,8 +14,8 @@ A collection of film-watching challenges from the Letterboxd community.
 
 ## 🌙 Monthly & Seasonal Challenges
 
-- [Hooptober](https://letterboxd.com/cinemonster/list/hooptober-the-13th-the-final-chapter/) – The massive annual October horror-watching challenge with strict genre and thematic constraints. (October) ([cinemonster](https://letterboxd.com/cinemonster/))
-- [The Big Noirvember](https://letterboxd.com/savagebob/list/the-big-noirvember-a-film-noir-challenge-3/) – Watch 30 film noir titles across 30 thematic categories during the month of November. (November) ([savagebob](https://letterboxd.com/savagebob/)) ([2025](https://letterboxd.com/savagebob/list/the-big-noirvember-a-film-noir-challenge-2/) · [2024](https://letterboxd.com/savagebob/list/the-big-noirvember-a-film-noir-challenge/))
+- [Hooptober 2026](https://letterboxd.com/cinemonster/list/hooptober-the-13th-the-final-chapter/) – The massive annual October horror-watching challenge with strict genre and thematic constraints. (October) ([cinemonster](https://letterboxd.com/cinemonster/))
+- [The Big Noirvember 2026](https://letterboxd.com/savagebob/list/the-big-noirvember-a-film-noir-challenge-3/) – Watch 30 film noir titles across 30 thematic categories during the month of November. (November) ([savagebob](https://letterboxd.com/savagebob/)) ([2025](https://letterboxd.com/savagebob/list/the-big-noirvember-a-film-noir-challenge-2/) · [2024](https://letterboxd.com/savagebob/list/the-big-noirvember-a-film-noir-challenge/))
 
 ## ♾️ Ongoing Challenges
 
