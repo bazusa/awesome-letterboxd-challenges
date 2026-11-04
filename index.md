@@ -25,5 +25,6 @@ A collection of interesting Letterboxd challenges.
 - [Birth Year Challenge: Part 1](https://letterboxd.com/kynky/list/birth-year-challenge-part-1/) — Watch a set number of first-time watch movies all released in the year you were born. ([kynky](https://letterboxd.com/kynky/)) <span class="like-count">846 likes</span>
 
 <div class="site-credit">
+<p>Last updated: November 4, 2026 at 12:03 PM</p>
 Maintained by <a href="https://letterboxd.com/jpowhere/">@jpowhere</a>
 </div>
